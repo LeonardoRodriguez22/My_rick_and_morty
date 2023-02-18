@@ -12,6 +12,7 @@
     /* position: inherit; */
 }
 
+
 .input {
     background-color:black;
     color: white;
@@ -28,6 +29,7 @@
   z-index: 1;
   overflow: hidden;
   display: inline-block;
+  /* align-items: flex-start; */
 }
 .butto1:hover {
   color: #fbff19;/* color de fuente hover */
